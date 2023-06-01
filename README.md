@@ -4,6 +4,7 @@
 # Öğrenci Bilgisi
 - 👨🏻‍💼 Erdi İrden
 - 🔢 205541305
+- 🌐 [https://www.linkedin.com/in/erdi-irden/](https://www.linkedin.com/in/erdi-irden/)
 
 ## Uygulamayı İNDİR
 🧩 EKLENECEK
