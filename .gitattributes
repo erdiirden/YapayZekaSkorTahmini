@@ -1,1 +1,3 @@
 poster/* linguist-documentation=false
+build/* linguist-documentation=false
+dist/* linguist-documentation=false
