@@ -1,4 +1,5 @@
-# PYTHON İLE YAPAY ZEKA STSL SKOR TAHMIN ETME UYGULAMASI
+# Language: Python
+# YAPAY ZEKA STSL SKOR TAHMIN ETME UYGULAMASI
 👨‍💻 Python ile Yapay Zeka dersi final dönemi projesi olarak yaptığım STSL skor tahmin uygulaması.
 
 # Öğrenci Bilgisi
