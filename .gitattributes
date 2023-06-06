@@ -1,3 +1,6 @@
 poster/* linguist-documentation=false
+poster/* linguist-vendored
 build/* linguist-documentation=false
+build/* linguist-vendored
 dist/* linguist-documentation=false
+dist/* linguist-vendored
