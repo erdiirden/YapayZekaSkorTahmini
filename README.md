@@ -14,3 +14,5 @@
 
 <img align="center" alt="GIF" src="https://i.hizliresim.com/1mqrwnw.png" width="637" height="442" />
 
+## Proje Dili: Python
+- 📝 Bu proje python programlama dili ile yazılmıştır.
