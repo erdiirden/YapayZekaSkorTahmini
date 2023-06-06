@@ -1,4 +1,4 @@
 *.py linguist-detectable=true
 *.html linguist-detectable=false
 *.tex linguist-detectable=false
-build/* linguist-vendored=false
+build/SkorAnalizProgramı/* linguist-vendored=false
